@@ -1,0 +1,10 @@
+18:54:18 **** Incremental Build of configuration Debug for project 4LED_SWITCHP_Q3 ****
+make -j4 all 
+arm-none-eabi-size  4LED_SWITCHP_Q3.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1400	      4	   1564	   2968	    b98	4LED_SWITCHP_Q3.elf
+Finished building: default.size.stdout
+ 
+
+18:54:20 Build Finished. 0 errors, 0 warnings. (took 1s.678ms)
+
