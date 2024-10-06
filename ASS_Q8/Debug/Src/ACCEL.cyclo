@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	2
+../Src/ACCEL.c:4:6:LIS_WriteIO	2
+../Src/ACCEL.c:15:6:LIS_ReadIO	2
+../Src/ACCEL.c:27:6:LIS_Init	1
+../Src/ACCEL.c:36:10:LIS_GetData	1
+../Src/ACCEL.c:53:5:LIS_DRdy	2
